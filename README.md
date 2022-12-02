@@ -6,4 +6,4 @@
 
 ### Image
 
-<img src="images/PlaneInital.jpg" alt="BlinkingBoard" width="450">
+<img src="images/PlaneInital.PNG" alt="BlinkingBoard" width="450">
