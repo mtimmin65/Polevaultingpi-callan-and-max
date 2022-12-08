@@ -17,6 +17,9 @@ This is our inital design, it is not to scale but is more of a concept sketch. A
 
 
  ![Gif 2](images/Gif2.gif)
+ 
+ 
+  ![Gif 3](images/Gif3.gif)
 
 ### We are currently expiramenting to find the best design for maxium flight time stability and distance. We know our glider will likely be made out of some sort of foam and other than the mateirals we need to collect data. 
 
