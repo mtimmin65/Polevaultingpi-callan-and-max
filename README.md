@@ -77,3 +77,12 @@ while True:
     else:
         led_red.value = False  #if not led is off''
         
+
+
+
+
+
+### Our Progress 
+
+## Week One
+This week we have created several prototypes and found out what has to be done in order to make the most stable glider we can make. from our first to our second design there are things we need to fix be this weekend we are hoping to find some foam board we can use the make a better and possible final prototype.
