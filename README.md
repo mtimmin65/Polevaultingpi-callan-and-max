@@ -9,7 +9,7 @@
 <img src="images/PlaneInital.PNG" alt="BlinkingBoard" width="450">
 
 <img src="images/PlaneInital2.PNG" alt="BlinkingBoard" width="450">
-<img src="images/PlaneInital2.PNG" alt="BlinkingBoard" width="450">
+
 ### Description
 This is our inital design, it is not to scale but is more of a concept sketch. A good power to wieght ratio for gliders or light and slow-flying model aircraft, a ratio of between 0.3: 1 to 0.4: 1.
 
@@ -84,7 +84,7 @@ while True:
 
 ### Our Progress 
 
-<img src="images/crocs.jpg" alt="BlinkingBoard" width="450">
+<img src="images/crocs.jpg" alt="croc" width="450">
 
 ## Week One
 This week we have created several prototypes and found out what has to be done in order to make the most stable glider we can make. from our first to our second design there are things we need to fix be this weekend we are hoping to find some foam board we can use the make a better and possible final prototype.
