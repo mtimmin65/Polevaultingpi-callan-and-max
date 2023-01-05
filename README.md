@@ -6,9 +6,9 @@
 
 ### Image
 
-<img src="images/mondo1.PNG" alt="BlinkingBoard" width="450">
+<img src="images/PlaneInital.PNG" alt="BlinkingBoard" width="450">
 
-<img src="images/mondo2.PNG" alt="BlinkingBoard" width="450">
+<img src="images/PlaneInital2.PNG" alt="BlinkingBoard" width="450">
 
 ### Description
 This is our inital design, it is not to scale but is more of a concept sketch. A good power to wieght ratio for gliders or light and slow-flying model aircraft, a ratio of between 0.3: 1 to 0.4: 1.
@@ -80,7 +80,13 @@ while True:
 
 
 
+### Our ultimate goal
 
+## Risk Mitigation
+The main safety risks of this project lie within the pole vaulting part which remain despite the added engineering challenge. Assuming safe pole vaulting, we have to worry about the safety of our pi and project not exploding. To avoid this we have to ensure our wiring is incased by something solid but not to large. A plastic box that will hold all the wiring intact and in place should work, this will be attacthed to a strap around our body.
+
+## What is sucesss? 
+Sucess for us in this porject is to collect data thorugout the run and jump our polevault that will allow us to optimize our own polevaulting and reach higher heights and ultimate sucess. We will mesaure postion of takeoff on the ground, and position in the air, and comapre this with sucess of jumps to reach our goal. 
 
 ### Our Progress 
 
@@ -94,4 +100,5 @@ This week we have created several prototypes and found out what has to be done i
 We spent the week working on a prototype for a gliding plane, but our efforts were unsuccessful due to the foam we used being too heavy. We started by sketching out our design and gathering the materials we would need. we carefully followed our plans and began assembling the prototype, but as we were putting the finishing touches on it, we realized that the foam was too dense and was causing the plane to be too heavy. We tested it out and the plane crashed as soon as we launched it. We were disappointed by the result, but we learned a valuable lesson about the importance of using the right materials in mour design. We will have to find a lighter foam to use in our next prototype.
 
 
-## week three
+## Week Three
+This week we did a complete 180 and are changing our inital plan for our project. Instead of doing a glider we are becoming the pi in the sky. We are both pole vaulters for chs and we are going to attatch a pi to oursleves to collect data while we are in the air. We are changing to this idea because we are more passionate about it and it is more unique and interesting.
