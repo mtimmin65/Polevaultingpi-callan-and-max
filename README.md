@@ -1,10 +1,4 @@
-# max-and-callen
-
-# Planning 
-
-## Inital Desgin
-
-### Image
+# max-and-callen Pole Vaulting Pi
 
 <img src="images/mondo1.PNG" alt="BlinkingBoard" width="200">
 
