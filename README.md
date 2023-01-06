@@ -31,6 +31,9 @@ For this project a sucess will be that we can accurately record the postion of o
 ## Safety? 
 Assuming safe polevaulting, the safety for this project lies with the safety of the pi on impact and in the air. We will be sure to protect the pi in a way that it will not break on impact using a box, and strap it tight to our bodies so it will not fall off. 
 
+## Images
+
+<img src="PVdiagram.jpg" alt="The seatbelt" width="300">
 
 ### Our Progress 
 
