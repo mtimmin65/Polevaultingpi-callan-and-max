@@ -22,6 +22,23 @@ This is Mondo Duplantis. He is currently the best pole vaulter in the world with
  ![Gif 2](images/polevaultgif2.gif)
  
 
+## Bill of matierals
+*Not including pole vault tools
+
+-Strap to attacth pi to our bodies
+- Rasberry pi
+- Acceleraomoter
+- Necesary wiring 
+- Box to protect wiring
+
+## What is success for this project?
+For this project a sucess will be that we can accurately record the postion of ourselves on takeoff, and in the air, during the polevault, and compare this with the sucess of our jump (Measured by height cleared.) By compaing these hopefully we can optimize our own jumps and hit big time personal bests by finding the best take off postion/positoin in the air.
+
+## Safety? 
+Assuming safe polevaulting, the safety for this project lies with the safety of the pi on impact and in the air. We will be sure to protect the pi in a way that it will not break on impact using a box, and strap it tight to our bodies so it will not fall off. 
+
+
+
 ### We are currently expiramenting to find the best design for maxium flight time stability and distance. We know our glider will likely be made out of some sort of foam and other than the mateirals we need to collect data. 
 
 ''import board  #import shit
