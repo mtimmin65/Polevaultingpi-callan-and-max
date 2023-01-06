@@ -33,7 +33,7 @@ Assuming safe polevaulting, the safety for this project lies with the safety of 
 
 ## Images
 
-<img src="PVdiagram.jpg" alt="The seatbelt" width="300">
+<img src="PVdiagram.jpg" width="300">
 
 ### Our Progress 
 
