@@ -49,3 +49,12 @@ We spent the week working on a prototype for a gliding plane, but our efforts we
 
 ## week three
 In week three we took a complete 180 for our project. We are switching from our glider to us being the pi in the sky. We are both pole vaulters and we want to attatch a pico to ourselves and measure the data and our postions in the air to optimize our polevaulting ability. We switched to this project because it is more unique and interesting than just a glider, and we are more passionate about this.
+
+
+## Schedule 
+Week 3: Finalize design idea, what we are measuring, finish github. 
+Week 4: Start coding and design 
+Week 5: Print peices of holder, finalizr code
+Week 6: Work on/finish inital prototypr
+Weeks 7-8: Dependent on sucess, work out kinks and upgrade. Use collected data and compare with sucess of jumps, start documentation and measuring of progress
+Week 8-10: Continue to optimize jumps through collected data while documenting.
