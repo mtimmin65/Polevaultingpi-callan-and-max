@@ -48,4 +48,4 @@ We spent the week working on a prototype for a gliding plane, but our efforts we
 
 
 ## week three
-In week three we took a complete 180 for our project. We are switching from our glider to us being the pi in the sky. We are both pole vaulters and we want to attatch a pico to ourselves and measure the data and our postions in the air to optimize our polevaulting abiliity. WE switched to this project because it is more unique and interesting than just a glider, and we are more passionate about this
+In week three we took a complete 180 for our project. We are switching from our glider to us being the pi in the sky. We are both pole vaulters and we want to attatch a pico to ourselves and measure the data and our postions in the air to optimize our polevaulting ability. We switched to this project because it is more unique and interesting than just a glider, and we are more passionate about this.
