@@ -72,7 +72,7 @@ In week three we took a complete 180 for our project. We are switching from our 
 
 
 ## week four
-In week four callan went to new york and I had a some work to do for the cern trip so this was an off week. I did manage to get the acclerameter working again and start design on the holder for our pi and sensors. We are hoping to attach it to a go pro chest strap which I have and I will try and find this so we can print and test to casing.
+In week four callan went to new york and I had a some work to do for the cern trip so this was an off week. I did manage to get the acclerameter working again and start design on the holder for our pi and sensors. We are hoping to attach it to a go pro chest strap which I have and I will try and find this so we can print and test the casing.
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
