@@ -77,6 +77,9 @@ In week four callan went to new york and I had a some work to do for the cern tr
 
 ## week five
 We are still behind schedule this week we are close to finishing the design for our holder. We have also bought a go pro chest strap because my brother has mine. next week we hope to put our data into excel and start testing.
+
+## week six 
+We are catching up this week we are nearing completion on the design for the sensor casing. We now have the chest strap so we can better visualize what we want to do with it. We have also gotten the barrometer work along with a time stamp and accelerameter. Now we need to start putting the peices together and figure out how to save our data and plot it.
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
 Week 4: Start coding and design 
