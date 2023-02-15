@@ -84,7 +84,7 @@ We are catching up this week we are nearing completion on the design for the sen
 ## Week Seven
 Using an altimeter and acceleramtoer we now can collect height, and x and z acceleration values. This is a big step in collecting data of our jumps. We also have a time.monotnic to cross refernce with our data. We now are working on a way to save the data, and plot it. We also need to figure out how to turn x and z accleration into velociy and position. 
 
-<img src="images/code.PNG" alt="code" width="450">
+<img src="images/code.jpg" alt="code" width="450">
 
 
 ## Week 8 
