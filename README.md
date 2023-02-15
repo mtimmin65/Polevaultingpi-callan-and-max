@@ -67,19 +67,26 @@ This week we have created several prototypes and found out what has to be done i
 We spent the week working on a prototype for a gliding plane, but our efforts were unsuccessful due to the foam we used being too heavy. We started by sketching out our design and gathering the materials we would need. we carefully followed our plans and began assembling the prototype, but as we were putting the finishing touches on it, we realized that the foam was too dense and was causing the plane to be too heavy. We tested it out and the plane crashed as soon as we launched it. We were disappointed by the result, but we learned a valuable lesson about the importance of using the right materials in mour design. We will have to find a lighter foam to use in our next prototype.
 
 
-## week three
+## Week Three
 In week three we took a complete 180 for our project. We are switching from our glider to us being the pi in the sky. We are both pole vaulters and we want to attatch a pico to ourselves and measure the data and our postions in the air to optimize our polevaulting ability. We switched to this project because it is more unique and interesting than just a glider, and we are more passionate about this.
 
 
-## week four
+## Week Four
 In week four callan went to new york and I had a some work to do for the cern trip so this was an off week. I did manage to get the acclerameter working again and start design on the holder for our pi and sensors. We are hoping to attach it to a go pro chest strap which I have and I will try and find this so we can print and test the casing.
 
 
-## week five
+## Week Five
 We are still behind schedule this week we are close to finishing the design for our holder. We have also bought a go pro chest strap because my brother has mine. next week we hope to put our data into excel and start testing.
 
-## week six 
+## Week Six 
 We are catching up this week we are nearing completion on the design for the sensor casing. We now have the chest strap so we can better visualize what we want to do with it. We have also gotten the barrometer work along with a time stamp and accelerameter. Now we need to start putting the peices together and figure out how to save our data and plot it.
+
+## Week Seven
+Using an altimeter and acceleramtoer we now can collect height, and x and z acceleration values. This is a big step in collecting data of our jumps. We also have a time.monotnic to cross refernce with our data. We now are working on a way to save the data, and plot it. We also need to figure out how to turn x and z accleration into velociy and position. 
+
+## Week 8 
+This week we figured out how to collect and save the data in a data.txt file. We can now easily input the data into Excel and plot it into graphs as nececsary. The 3d printed box is almost finalized and ready to print. All we have left is soldering our wiring, printing our box to hold the wiring, and converting x and z acceleration into postion values.
+
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
 Week 4: Start coding and design 
