@@ -90,7 +90,7 @@ Using an altimeter and acceleramtoer we now can collect height, and x and z acce
 ## Week 8 
 This week we figured out how to collect and save the data in a data.txt file. We can now easily input the data into Excel and plot it into graphs as nececsary. The 3d printed box is almost finalized and ready to print. All we have left is soldering our wiring, printing our box to hold the wiring, and converting x and z acceleration into postion values.
 
-<img src="images/data.gif.gif" alt="croc" width="450">
+<img src="images/data.gif.gif" alt="data" width="450">
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
