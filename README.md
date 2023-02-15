@@ -84,13 +84,13 @@ We are catching up this week we are nearing completion on the design for the sen
 ## Week Seven
 Using an altimeter and acceleramtoer we now can collect height, and x and z acceleration values. This is a big step in collecting data of our jumps. We also have a time.monotnic to cross refernce with our data. We now are working on a way to save the data, and plot it. We also need to figure out how to turn x and z accleration into velociy and position. 
 
-<img src="images/code.jpg" alt="code" width="450">
+<img src="images/data.jpg" alt="code" width="450">
 
 
 ## Week 8 
 This week we figured out how to collect and save the data in a data.txt file. We can now easily input the data into Excel and plot it into graphs as nececsary. The 3d printed box is almost finalized and ready to print. All we have left is soldering our wiring, printing our box to hold the wiring, and converting x and z acceleration into postion values.
 
-<img src="images/data.gif.gif" alt="data" width="450">
+<img src="images/code.gif.gif" alt="data" width="450">
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
