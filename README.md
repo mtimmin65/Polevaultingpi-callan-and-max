@@ -92,6 +92,9 @@ This week we figured out how to collect and save the data in a data.txt file. We
 
 <img src="images/code.gif.gif" alt="data" width="450">
 
+## Week 9
+This week callan and I went to states (I was not participating sadly). States taught us a lot about how far we have to go in our pole vaulting journey and it starts with this project. We are currently in the process of printing and assembling our first prototype. We are going to start testing soon and record data to see if we can find anything.
+
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
 Week 4: Start coding and design 
