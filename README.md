@@ -96,8 +96,10 @@ This week we figured out how to collect and save the data in a data.txt file. We
 This week callan and I went to states (I was not participating sadly). States taught us a lot about how far we have to go in our pole vaulting journey and it starts with this project. We are currently in the process of printing and assembling our first prototype. We are going to start testing soon and record data to see if we can find anything.
 
 ## Week 10 
-We now have our code and design finalized and we are just waiting for our box to print. All thats left after that is hopefully just testing and optimization. At worst well have to fix a few things and do some tweaks.
+We now have our code and design finalized and we are just waiting for our box to print. All thats left after that is hopefully just testing and optimization. At worst well have to fix a few things and do some tweaks. We also tested as seen below
 
+
+<img src="images/IMG_6787_MOV_AdobeExpress.gif" alt="code" width="450">
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
