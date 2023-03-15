@@ -101,6 +101,9 @@ We now have our code and design finalized and we are just waiting for our box to
 
 <img src="images/IMG_6787_MOV_AdobeExpress.gif" alt="code" width="450">
 
+<img src="images/UpdatedDesign.PNG" alt="code" width="450">
+Optimized Design
+
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
 Week 4: Start coding and design 
