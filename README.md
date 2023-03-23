@@ -107,7 +107,7 @@ Optimized Design
 ## Week 11
 Our optimized design is now printed and constructed, the battery pack didn't fit so we had to do some minor configuring, but everything is now ready for testing, and that is all we have to do. 
 
-<img src="images/IMG_6801.jpg" alt="code" width="450">
+<img src="images/IMG_6801.png" alt="code" width="450">
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
