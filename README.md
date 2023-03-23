@@ -98,12 +98,15 @@ This week callan and I went to states (I was not participating sadly). States ta
 ## Week 10 
 We now have our code and design finalized and we are just waiting for our box to print. All thats left after that is hopefully just testing and optimization. At worst well have to fix a few things and do some tweaks. We also tested as seen below
 
-
+##
 <img src="images/IMG_6787_MOV_AdobeExpress.gif" alt="code" width="450">
 
 <img src="images/UpdatedDesign.PNG" alt="code" width="450">
 Optimized Design
 
+## Week 11
+Our optimized design is now printed and constructed, the battery pack didn't fit so we had to do some minor configuring, but everything is now ready for testing, and that is all we have to do. 
+nb n
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
 Week 4: Start coding and design 
