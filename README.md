@@ -1,4 +1,4 @@
-# max-and-callen Pole Vaulting Pi
+# max-and-callan Pole Vaulting Pi
 
 <img src="images/mondo1.PNG" alt="BlinkingBoard" width="200">
 
