@@ -5,7 +5,7 @@
 <img src="images/mondo2.PNG" alt="BlinkingBoard" width="200">
 
 ### Description
-This is Mondo Duplantis. He is currently the best pole vaulter in the world with a hieght of a little over 20 feet. Our main question is what makes Mondo so hot and how we can be more like him using the power and wonder of engineering. In our best hopes we will be able to use the metrics from our sensor to figure out how virtical we are getting and how fast we are accelerating through the vault. We will measure our position on the ground during takeoff and continhual postion throught the air, and compare this with the sucess of our jump. Throught this we will be able to optimize our pole vault.
+This is Mondo Duplantis. He is currently the best pole vaulter in the world with a hieght of a little over 20 feet. Our main question is can be more like him using the power and wonder of engineering. In our best hopes we will be able to use the metrics from our sensor to figure out how virtical we are getting and how fast we are accelerating through the vault. We will measure our position on the ground during takeoff and continhual postion throught the air, and compare this with the sucess of our jump. Throught this we will be able to optimize our pole vault.
 
 ## Proof of concept
 
@@ -108,6 +108,17 @@ Optimized Design
 Our optimized design is now printed and constructed, the battery pack didn't fit so we had to do some minor configuring, but everything is now ready for testing, and that is all we have to do. 
 
 <img src="images/IMG_6801.png" alt="code" width="450">
+
+## Final Results
+
+## Video 
+<img src="images/ProjectVideo.gif" alt="code" width="450">
+This is a video of our test subjet, Oliver, wearing our project while doing a vault.
+
+## Data 
+
+## Final reflections
+Our initial goal for our project was to create a device that "used the metrics from our sensor to figure out how virtical we are getting and how fast we are accelerating through the vault." in order to optimize our pole vaulting. We successfully created a device that did what we wanted, it measured our postition in the air and our acceleration on all 3 planes. We also both succeeded in improving in the pole vault, Callan imporved 2"3' across both seasons and Max imporved 1" in just the winter season. However was our project the reason we imporved? Not really. We have both only been pole vaulting for 2 years, and our vaults are extremely flawed, measuring our position in the air and acceleration isn't as beneficial as making the major form correction we need. For an elite vaulter though,(such as Mondo) where the differnce between a good and bad vault is in the margins, this project would be much more beneficial, as our device mesaures the margins. 
 
 ## Schedule 
 Week 3: Finalize design idea, what we are measuring, finish github. 
