@@ -53,7 +53,7 @@ while True:
 
 ## Wring 
 
-<img src="IMG_4289.HEIC" alt="BlinkingBoard" width="200">
+<img src="maxwring1.pdf" alt="BlinkingBoard" width="200">
 
 ## What is success for this project?
 For this project a sucess will be that we can accurately record the postion of ourselves on takeoff, and in the air, during the polevault, and compare this with the sucess of our jump (Measured by height cleared.) By compaing these hopefully we can optimize our own jumps and hit big time personal bests by finding the best take off postion/positoin in the air.
